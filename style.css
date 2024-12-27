@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#head{
+   padding: 20px;
+   font-size: 80px;
+}
+.btn{
+    width: 120px;
+    height: 70px;
+}
+#car:hover{
+    background: linear-gradient(to bottom,red 50%, blue 50%);
+    transition: 1s;
+    background-size: 100px 200px;
+}
+#car:hover{
+    background-position: bottom;
+}
+#car2:hover{
+    background: linear-gradient(to bottom, red, yellow );
+    transition: 1s;
+    background-size: 100px 200px;
+  }
+  #car3:hover{
+    background: linear-gradient(to bottom, red, yellow );
+    transition: 1s;
+    background-size: 100px 200px;
+  }
+  #car4:hover{
+    background: linear-gradient(to bottom, red, yellow );
+    transition: 1s;
+    background-size: 100px 200px;
+  }
+  #awa:hover{
+    box-shadow: 10px 10px 8px 10px #888888;
+  }
+  #ho:hover{
+    color: rgb(184, 30, 30);
+  text-shadow: 2px 2px 4px #000000;
+  background-color: #000000;
+  }
